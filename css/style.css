@@ -9,7 +9,7 @@ img{width:39%;height:439px}
 .con{border:0px solid black;height:555px;padding:8px;float:left;margin:1%;width:15%;margin-top:-0.7%;background-color:#F5F5F5}
 
 
-.con p:first-child{background-color:pink;padding:2px;text-align:center;border:1px solid blue}
+.con p:first-child{background-image:url("../images/p.jpg");padding:3px;text-align:center;border:1px solid blue}
 
 .cont{background-color:#F5F5F5}
 .on{background-color:violet}
